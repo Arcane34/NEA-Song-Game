@@ -1,0 +1,30 @@
+Metallica,Fade To Black
+Metallica,Master Of Puppets
+Metallica,One
+Metallica,Enter Sandman
+Metallica,For Whom The Bell Tolls
+AC/DC,Back In Black
+AC/DC,Thunderstruck
+AC/DC,Highway To Hell
+AC/DC,Hells Bells
+AC/DC,Let There Be Rock
+Queen,Killer Queen
+Queen,Bohemian Rhapsody
+Queen,Another One Bites The Dust
+Queen,Bicycle
+Queen,Don't Stop Me Now
+Dust; an Elysian Tale,Falana
+Dust; an Elysian Tale,Come Home
+Dust; an Elysian Tale,The Cirelian Trials
+Dust; an Elysian Tale,Aurora
+Dust; an Elysian Tale,The Land Of Remembrance
+Naruto,Sadness And Sorrow
+Naruto,Raising Fighting Spirit
+Naruto,Orochimaru's Theme
+Naruto,Hokage's Funeral
+Naruto,Kimi Monogatari
+Undertale,Megalovania
+Undertale,Death By Glamour
+Undertale,Dogsong
+Undertale,Hopes And Dreams
+Undertale,Spider Dance
